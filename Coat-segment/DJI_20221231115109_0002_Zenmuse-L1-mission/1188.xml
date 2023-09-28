@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DJI_20221231115109_0002_Zenmuse-L1-mission</folder>
+	<filename>1188.jpg</filename>
+	<path>/Volumes/2T-Experiment/coat-id/Coat/DJI_20221231115109_0002_Zenmuse-L1-mission/1188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cattle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2448</xmin>
+			<ymin>741</ymin>
+			<xmax>2857</xmax>
+			<ymax>1286</ymax>
+		</bndbox>
+	</object>
+</annotation>
